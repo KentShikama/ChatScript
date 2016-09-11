@@ -12,3 +12,5 @@ TMP
 USERS
 VS2010/Debug
 VS2010/ipch
+ChatScript
+*.o
