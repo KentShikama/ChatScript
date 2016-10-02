@@ -1,1 +1,2 @@
-﻿^harry O 0 0 A$cs_token = 4096 | 255 | 512 | 131072 | 1024 | 2048 | 24576 ^addtopic ( ~introductions ) $cs_control_main = ~control $userprompt = ^"%user: >" $botprompt = ^"HARRY: " 
+﻿^not_preceded_by_verbs P 0 1 B[ ( ^0 ) ( _*1 ^0 ! =4_0?~verb ) ( _*1 _*1 ^0 ! =4_0?~verb ! =4_1?~verb ) ( _*1 _*1 _*1 ^0 ! =4_0?~verb ! =4_1?~verb ! =4_2?~verb ) ] 
+^detector O 0 0 A$cs_token = 4096 | 255 | 512 | 131072 | 1024 | 2048 | 24576 ^addtopic ( ~introductions ) $cs_control_main = ~control $userprompt = ^"%user: >" $botprompt = ^"Detector: " 

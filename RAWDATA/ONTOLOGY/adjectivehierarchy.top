@@ -45,7 +45,7 @@ concept: ~appearance (blotched bright clear dark dingy dismal dotted drab dull f
 concept: ~appearance_adjectives (~APPEARANCE ~BAD_APPEARANCE ~GOOD_APPEARANCE plain)
 concept: ~bad_appearance (disfigured hideous ugly )
 concept: ~bad_intelligence_adjectives (brainless dazed deficient dense dim doltish dopey dull dumb dummy foolish futile gullible half-baked half-witted 
-          idiotic ill-advised imbecilic inane indiscreet insensate irrelevant laughable ludicrous meaningless mindless moronic naive nonsensical obtuse 
+          idiotic ill-advised imbecilic inane indiscreet insensate irrelevant laughable ludicrous meaningless mindless moronic nonsensical obtuse
           pointless puerile rash senseless shortsighted simpleminded simple slow sluggish stolid stupefied thick-headed thick trivial unintelligent unthinking 
           witless )
 concept: ~bad_quality_adjectives (atrocious awful bad mediocre poor )
@@ -93,7 +93,7 @@ concept: ~tall_adjectives(tall  lanky gangly high)
 concept: ~short_adjectives(short midget low little)
 concept: ~insult_psychology_adjectives (abrasive abrupt abusive aloof arrogant awful bad belligerent boorish boring callous careless clumsy combative cowardly 
           crazy creepy cruel deceitful defective demonic deranged disagreeable disturbed domineering evil filthy foolish greedy gruesome grumpy harsh horrible 
-          ignorant lacking lazy malicious mean mellow naive nasty noisy obnoxious pathetic quarrelsome repulsive ruthless selfish silly snobbish spendthrift 
+          ignorant lacking lazy malicious mean~a mellow nasty noisy obnoxious pathetic quarrelsome repulsive ruthless selfish silly snobbish spendthrift
           stingy strange sulky tacky terrible thoughtless tiresome truculent undesirable unsuitable uptight vengeful venomous vulgar wicked worthless 
           wretched )
 concept: ~intelligence_adjectives (~BAD_INTELLIGENCE_ADJECTIVES ~GOOD_INTELLIGENCE_ADJECTIVES )

@@ -249,9 +249,9 @@ concept: ~ceo (CEO )
 concept: ~chatbotlist (AI AIML Alicebot artificial artificial_intelligence automaton bot chat-program chat_bot chat_box chatbot chatbox chatterbot chatterbox nonhuman NPC program robot 
           Smarterchild talk_bot unhuman Verbot )
 concept: ~cheeses   (blue_cheese Boursin Brie Cambozola Camembert cheddar Colby cream_cheese Danish_blue feta Gorgonzola Gouda Gruyere havarti Limburger Monterey_Jack 
-          mozzarella Muenster munster Parmesan pepper_jack provolone quark ricotta Rochefort Roquefort Stilton Swiss_cheese Tilsit blue_cheese Boursin Brie Brie_de_Meaux Cambozola Camembert cheddar Chevre Chèvre Colby cream_cheese Danish_blue Epoisses feta fromage Gorgonzola Gouda Gruyere 
-          havarti Limburger Monterey_Jack mozzarella muenster munster Parmesan pepper_jack Pont_l'Eveque Pont_l'Évêque provolone quark Reblochon ricotta Rochefort Roquefort Stilton 
-          Swiss_cheese Tilsit Tomme_de_Savoie yogurt Époisses)
+          mozzarella Muenster munster Parmesan pepper_jack provolone quark ricotta Rochefort Roquefort Stilton Swiss_cheese Tilsit blue_cheese Boursin Brie Brie_de_Meaux Cambozola Camembert cheddar Chevre Chï¿½vre Colby cream_cheese Danish_blue Epoisses feta fromage Gorgonzola Gouda Gruyere 
+          havarti Limburger Monterey_Jack mozzarella muenster munster Parmesan pepper_jack Pont_l'Eveque Pont_l'ï¿½vï¿½que provolone quark Reblochon ricotta Rochefort Roquefort Stilton 
+          Swiss_cheese Tilsit Tomme_de_Savoie yogurt ï¿½poisses)
 concept: ~chemicals (chemical compound~3 organic_compound~1 )
 concept: ~chinese_cooking_styles (Cantonese Chinese Hunan Mongolian Sichuan Szechuan )
 concept: ~christmas_words (Christmas Christmas_Day Christmas_Eve Xmas )
@@ -1329,7 +1329,7 @@ concept: ~natural_disasters (avalanche blizzard catastrophe~1 drought earthquake
           tornado tremor tsunami twister typhoon waterspout whirlwind )
 concept: ~natural_words (artificial natural organic synthetic )
 concept: ~negation (never not rarely )
-concept: ~negativeemotions (angry hostile impolite insulting mean nasty negative unpleasant )
+concept: ~negativeemotions (angry hostile impolite insulting mean~a nasty negative unpleasant )
 concept: ~negativevalue (bad dislike hate )
 concept: ~networkgame (MMORPG networked online virtual_world )
 concept: ~new_years_words (New_Year_'s New_Year_'s_Eve New_Years New_Years_Eve )
